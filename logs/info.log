@@ -1,0 +1,5 @@
+database.py:39 #INFO     [2025-03-21 21:56:34,795] - root - Database initialized successfully
+dispatcher.py:527 #INFO     [2025-03-21 21:56:35,091] - aiogram.dispatcher - Start polling
+dispatcher.py:341 #INFO     [2025-03-21 21:56:35,154] - aiogram.dispatcher - Run polling for bot @QuizMoscowZooBot id=7876255227 - 'Московский зоопарк: викторина «Тотемное животное»'
+dispatcher.py:554 #INFO     [2025-03-21 21:56:40,774] - aiogram.dispatcher - Polling stopped
+dispatcher.py:359 #INFO     [2025-03-21 21:56:41,033] - aiogram.dispatcher - Polling stopped for bot @QuizMoscowZooBot id=7876255227 - 'Московский зоопарк: викторина «Тотемное животное»'
