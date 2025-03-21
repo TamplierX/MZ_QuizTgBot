@@ -34,7 +34,7 @@ MZ_QuizTgBot/
 ```
 ## Требования
 
-- Python 3.12+
+- Python 3.12
 - Aiogram 3.17
 - Redis 3.0.504 - локальный сервер.
 
